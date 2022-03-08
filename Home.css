@@ -1,0 +1,9 @@
+.jumbotron{
+    background-color:black;
+    color:goldenrod;
+    margin-top: 20px;
+  }
+  .pan{
+      background-image: url({./../../images/pizza.jpg);
+  }
+  
